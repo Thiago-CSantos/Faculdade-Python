@@ -6,9 +6,7 @@ print(lista)
 
 
 
-# 4. O que é impresso pelo trecho de código a seguir? 3.14
-lista = [3, 69, "gato", [56, 57, 'cachorro'], [], 3.14, False]
-print(lista[5])
+
 
 # 7. O que é impresso pelo trecho de código a seguir? [1, 3, 5, 2, 4, 6]
 lista = [1, 3, 5]

@@ -3,13 +3,6 @@ lista = [1, 2, 3, 6, 69, 44]
 print(lista)
 
 
-
-
-# 8. O que é impresso pelo trecho de código a seguir? [1, 3, 5, 1, 3, 5, 1, 3, 5]
-lista = [1, 3, 5]
-print(lista * 3)
-print("aqui")
-
 # 9. O que é impresso pelo trecho de código a seguir? [[], 3.14, False]
 lista = [3, 69, "gato", [56, 57, 'cachorro'], [], 3.14, False]
 print(lista[4:])
